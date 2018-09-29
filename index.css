@@ -1,0 +1,48 @@
+#header img{
+    width: 270px;
+}
+.largo{
+    height:150px;
+}
+.d-bloc{
+    height: 1px;
+}
+
+#main img{
+    height:505px;
+}
+
+h5{
+    color: white !important;
+}
+
+h5:hover{
+    color:#BCE304 !important;
+}
+
+.intro{
+    padding: 100px;
+}
+ #contact{
+     padding-top:100px;
+ }
+
+#introduction{
+    background-color:white;
+}
+
+ #productos{
+    background-color:#343A40;
+ }
+
+ #productos h2{
+     color:#BCE304;
+ }
+
+#productos p{
+    color:white;
+}
+
+#footer img{
+    height:150px;
+}
